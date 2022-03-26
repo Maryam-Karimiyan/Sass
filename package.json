@@ -1,0 +1,22 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maryam-Karimiyan/Sass.git"
+  },
+  "author": "Maryam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maryam-Karimiyan/Sass/issues"
+  },
+  "homepage": "https://github.com/Maryam-Karimiyan/Sass#readme",
+  "keywords": [
+    "\"\""
+  ]
+}
